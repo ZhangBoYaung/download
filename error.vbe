@@ -1,0 +1,1 @@
+msgbox "ZhaoHaoRuError:"&vbcrlf&"Something went wrong.No such script: 'C:/WINDOWS/System32/how_to_ouda_zhaohaoru.js'."&vbcrlf&"Please Ouda ZhaoHaoRu.",16+2,"Ouda ZhaoHaoRu"
